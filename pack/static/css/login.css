@@ -1,0 +1,80 @@
+page{
+	background: #E5E5E5;
+	font-size: 15px;
+}
+.content{
+	margin-top: 50upx;
+}
+.logo{
+	width: 150upx;
+	height: 150upx;
+	margin-left: 300upx;
+}
+input{
+	background: white;
+	width: 90%;
+	height: 100upx;
+	padding-left: 30upx;
+	margin: 30upx 5%;
+	border-radius: 20upx;
+}
+radio-group{
+	background: white;
+	width: 90%;
+	height: 100upx;
+	padding-left: 30upx;
+	padding-top: 50upx;
+	margin: 30upx 5%;
+}
+picker{
+	background: white;
+	width: 90%;
+	height: 100upx;
+	padding-left: 30upx;
+	padding-top: 50upx;
+	margin: 30upx 5%;
+}
+button{
+	width: 90%;
+	margin: 50upx 5%;
+	color: white;
+	background: #C6E746;
+	border-radius: 20upx;
+}
+uni-icon{
+	position: relative;
+	top:-80upx;
+	right: 40upx;
+	float: right;
+	z-index: 5;
+}
+span{
+	
+	margin-left: 70upx;
+
+}
+.re{
+	padding-left: 310upx;
+}
+
+
+/* 协议 */
+.service{
+	font-size: 60upx;
+	margin-left: 140upx;
+}
+.sdate{
+	font-size: 35upx;
+	margin-left: 130upx;
+}
+.hide{
+	font-size: 60upx;
+	margin-left: 230upx;
+}
+.hdate{
+	font-size: 35upx;
+	margin-left: 150upx;
+}
+.treaty{
+	color: cadetblue;
+}

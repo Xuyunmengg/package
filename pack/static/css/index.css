@@ -1,0 +1,123 @@
+/* 头部 */
+.sao{
+	width: 50upx;
+	height: 50upx;
+	margin-left: 40upx;
+	margin-top: 30upx;
+}
+.sao1{
+	font-size: 25upx;
+	margin-left: 25upx;
+	margin-top: -5upx;
+}
+.query{
+	background: #E0E0E0;
+	width: 65%;
+	height: 70upx;
+	border-radius: 20upx;
+	margin-left: 130upx;
+	margin-top: -90upx;
+	
+}
+.query,input{
+	text-align: center;
+	font-size: 35upx;
+	padding-top: 5upx;
+}
+.news{
+	display: inline-block;
+	position: absolute;
+	width: 50upx;
+	height: 50upx;
+	margin-left: 660upx;
+	margin-top: -80upx;
+	
+}
+.news1{
+	position: absolute;
+	font-size: 25upx;
+	margin-left: 660upx;
+	margin-top: -25upx;
+}
+/* 快递 */
+.yunshu1{
+	font-size: 35upx;
+	margin-left: 30upx;
+	margin-top: 25upx;
+}
+.t{
+	width: 90%;
+	height: 200upx;
+	border: 1px #C7C6CD solid; 
+	margin-left: 5%;
+	border-radius: 10upx;
+	background: white;
+	margin-top: 40upx;
+}
+.bear{
+	margin-left: 50upx;
+	margin-top: 20upx;
+	width: 160upx;
+	height: 160upx;
+	margin-top: 10upx;
+}
+.yunshu{
+	display: inline-block;
+	position: absolute;
+	margin-top: 15upx;
+	margin-left: 40upx;
+	color: orange;
+}
+.tmall{
+	display: inline-block;
+	position: absolute;
+	margin-top: 80upx;
+	margin-left: 40upx;
+	font-size: 35upx;
+}
+.express{
+	display: inline-block;
+	position: absolute;
+	margin-left: 40upx;
+	margin-top: 140upx;
+	font-size: 30upx;
+	color: #ADADAD;
+}
+/* 猜你喜欢 */
+.like{
+	color: #528CE0;
+	text-align: center;
+	margin-top: 50upx;
+}
+.tb1{
+	width: 300upx;
+	height: 480upx;
+	border: 1upx oldlace solid;
+	margin-left: 50upx;
+	display: inline-block;
+	margin-top: 60upx;
+}
+.tb2{
+	width: 300upx;
+	height: 450upx;
+	border: 1upx oldlace solid;
+	margin-left: 50upx;
+	display: inline-block;
+	margin-top: 60upx;
+}
+.img1{
+	width: 300upx;
+	height: 340upx;
+	margin-top: -40upx;
+}
+.img2{
+	width: 300upx;
+	height: 300upx;
+	margin-top: -35upx;
+}
+.word{
+	font-size: 25upx;
+}
+.money{
+	color: orangered;
+}

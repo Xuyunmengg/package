@@ -1,0 +1,60 @@
+.jkd{
+	width: 55upx;
+	height: 55upx;
+	display: inline-block;
+	position: absolute;
+	margin-top: 35upx;
+	margin-left: 10upx;
+}
+.shou{
+	width: 55upx;
+	height: 55upx;
+	display: inline-block;
+	position: absolute;
+	margin-top: 35upx;
+	margin-left: 10upx;
+}
+.bor{
+	width: 90%;
+	height: 130upx;
+	border-bottom: 1px cadetblue solid;
+	margin-left: 20px;
+	
+}
+.input{
+	width: 88%;
+	height: 120upx;
+	float: right;
+	
+}
+.buttons{
+	width: 90%;
+	margin: 30upx 5%;
+	color: white;
+	background: #007AFF;
+	border-radius: 30upx;
+}
+.p{
+	font-size: 13px;
+	text-align: center;
+}
+.image{
+	height: 100px;
+	width: 300px;
+	margin-left: -20px;
+	margin-top: 10px;
+	position: absolute;
+	margin-left: 10px;
+}
+.content{
+	margin-top: 15px;
+}
+.buttons2{
+	font-size: 13px;
+	background:#F1F1F1;
+	color: #528CE0;
+}
+.buttons3{
+	font-size: 13px;
+	color: #C7C6CD;
+}

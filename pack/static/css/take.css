@@ -1,0 +1,56 @@
+.empty{
+	width: 160upx;
+	height: 160upx;
+	margin-top: 10upx;
+}
+.take{
+	text-align: center;
+	font-size: 45upx;
+	margin-top: 10upx;
+}
+.null{
+	font-size: 30upx;
+	color: #8F8F94;
+}
+.history{
+	margin-left: 50upx;
+	margin-top: 20upx;
+}
+.t{
+	width: 90%;
+	height: 200upx;
+	border: 1px #C7C6CD solid; 
+	margin-left: 5%;
+	border-radius: 10upx;
+	background: white;
+	margin-top: 40upx;
+}
+.sdz{
+	margin-left: 50upx;
+	margin-top: 20upx;
+	width: 160upx;
+	height: 160upx;
+	margin-top: 10upx;
+}
+.sign{
+	display: inline-block;
+	position: absolute;
+	margin-top: 15upx;
+	margin-left: 40upx;
+	color: orange;
+}
+.Steward{
+	display: inline-block;
+	position: absolute;
+	margin-top: 80upx;
+	margin-left: 40upx;
+	font-size: 35upx;
+}
+.express{
+	display: inline-block;
+	position: absolute;
+	margin-left: 40upx;
+	margin-top: 140upx;
+	font-size: 30upx;
+	color: #ADADAD;
+}
